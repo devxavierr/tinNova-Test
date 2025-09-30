@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>atividade</module>
+        <module>cadastro-veiculos</module>
     </modules>
 
     <properties>
